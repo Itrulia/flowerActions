@@ -1,0 +1,17 @@
+## Interface: 70000
+## Author: Itrulia
+## Version: v1.0.0.alpha1
+## Title: Flower UI: Actionhighlight
+## Notes: Highlights smth... 
+
+config.lua
+core.lua
+
+actions/glow.lua
+actions/texture.lua
+actions/icon.lua
+
+triggers/aura.lua
+triggers/power.lua
+triggers/health.lua
+triggers/cooldown.lua
